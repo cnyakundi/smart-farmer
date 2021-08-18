@@ -1,24 +1,35 @@
-Smart Farmer Data Analysis
+# Smart Farmer Data Analysis
+
 This project was generated with Python and Jupyter Notebooks
 
-By Cyprian Nyakundi, Ronald Mosomi, Claire Maina, Victoria Ondieki and Natasha Gwena
-Description
+## Project by 
+
+Cyprian Nyakundi, Ronald Mosomi, Claire Maina, Victoria Ondieki and Natasha Gwena
+
+# Description
+
 This is a python data science project where we were  required to analyze crop production  and comparing the prices of the various crops in various counties and come up with summary statistics in order to answer some research questions
 
-User Requirements
+# User Requirements
+
 You must have python and Jupyter notebooks to analyze it
 
-Setup/Installations
+# Setup/Installations
+
 Clone this project from https://github.com/cnyakundi/smart-farmer
-Technologies Used
-Python
-Jupyter Notebooks
-Google Collab
-Support and contact details
+
+# Technologies Used
+- Python
+- Jupyter Notebooks
+- Google Collab
+
+# Support and contact details
+
 For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact us at cypriannyakundi@gmail.com, ronidad@gmail.com, tashagwena@gmail.com, veekemunto@gmail.com,  cmaina72@gmail.com
 
-License
-MIT License
+# License
+
+# MIT License
 
 Copyright (c) 2020 Cyprian Nyakundi, Ronald Mosomi, Claire Maina, Victoria Ondieki and Natasha Gwena
 
