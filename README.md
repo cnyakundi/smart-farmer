@@ -1,2 +1,2 @@
 # SMART FARMER
-this project for us 
+this project for our group 
