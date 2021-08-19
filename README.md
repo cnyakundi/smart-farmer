@@ -1,4 +1,4 @@
-# Smart Farmer Data Analysis
+# Smart Farmer Data Project Analysis
 
 This project was generated with Python and Jupyter Notebooks
 
