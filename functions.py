@@ -20,3 +20,11 @@ def nuls(val):
 def duplicates(val):
   no_duplicate=val.duplicated().sum()
   return no_duplicate
+
+def check_info(val):
+  c_info = val.info()
+  return c_info
+
+def means(values):
+  the_mean = sum(values)/len(values)
+  return the_mean
